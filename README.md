@@ -2,7 +2,7 @@
 Proyecto institucional
 Nuestro proyecto trata sobre un observador creado en HTML
 
-# Mienbros de equipo
+# Miembros de equipo
 -Camilo Caro Garcia 1035975438
 -Simon Posasa Montoya 1020421819
 -Mariana Acevedo 1035973358
